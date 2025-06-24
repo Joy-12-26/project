@@ -1,0 +1,64 @@
+ body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  background-color: white;
+  padding: 15px;
+  margin: 20px auto;
+  width: 300px;
+}
+
+input, select {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 10px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  background-color: white;
+  margin: 10px auto;
+  padding: 10px;
+  width: 280px;
+  text-align: left;
+}
+
+span {
+  font-size: 12px;
+  margin-left: 5px;
+}
+.Friend {
+  color: blue;
+}
+
+.Family {
+  color: green;
+}
+
+.Colleague {
+  color: purple;
+}
+
+.attending {
+  color: green;
+}
+.not-attending {
+  color: red;
+}
